@@ -1,0 +1,12 @@
+IF random THEN
+
+END IF
+ IF true THEN
+ 
+ ELSE
+ 
+END IF
+
+WHILE next-is-wall DO
+
+END WHILE
