@@ -1,0 +1,7 @@
+WHILE true DO
+  IF next-is-not-enemy THEN
+  END IF
+  IF random THEN
+  ELSE
+  END IF
+END WHILE
