@@ -1,0 +1,8 @@
+PROGRAM SimpleIf IS
+
+BEGIN
+    IF random THEN
+          move
+    END IF
+          
+END SimpleIf
